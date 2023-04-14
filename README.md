@@ -1,7 +1,7 @@
 # todoListApi
 ## To-do List API
 
-A todo list API that uses Node.js to GET all todo tasks from a MongoDB database.
+A todo list Node API that uses Express to GET all todo tasks from a MongoDB database.
 
 
 
@@ -9,10 +9,7 @@ A todo list API that uses Node.js to GET all todo tasks from a MongoDB database.
 ### Dependencies
 
 * node.js
-* MongoDB
-
-
-
+* MongoDB database named 'todo' and a collection named 'tasks'
 
 
 ### Executing program
