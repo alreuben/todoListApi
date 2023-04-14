@@ -144,24 +144,6 @@ There are no optional URL params
  ```
 
 
- 
- 
- 
- 
- 
- 
-
-
-[EXERCISE]
-Implement a priority system into your todo app - each todo should be either High, Medium & Low priority
-add the ability to filter by priority to the GET all todos route (should work on its own as a filter but also alongside in addition to the completed filtering)
-Add the ability to change the priority of a todo
-Validation should be used where you are adding/editing or retrieving priorities for todos. Unit testing should back up the validation service you create
-
-
-
-
-
 ## Authors
 * alreuben 
 
