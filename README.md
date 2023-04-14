@@ -7,26 +7,24 @@ A todo list API that uses Node.js to GET all todo tasks from a MongoDB database.
 
 ## Getting Started
 ### Dependencies
+
 * node.js
 * MongoDB
 
 
 
-### Installing
-How/where to download your program
-Any modifications needed to be made to files/folders
+
 
 ### Executing program
-How to run the program
-Step-by-step bullets
- 
-Project Set-up
+
 Clone the repo
-Run `npm i express`
+In the root of the project run both
+ `npm i express` and
+ `nmp i mongodb`
 
 
 To run tests, from the project root run:
-`npm tests`
+ `npm tests`
 
 ## API documentation
 
