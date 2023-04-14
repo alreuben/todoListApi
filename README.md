@@ -47,21 +47,21 @@ There are no required URL params
 
  **Optional:**
 
-Can filter `GET` request route to see all complete or uncomplete todos
+Can filter request route to see all complete or uncomplete todos
 
 * `/todo?task_status=true`
 * `/todo?task_status=false`
 
 
-Can filter `GET` request route to see all todos via their priorty
+Can filter request route to see all todos via their priorty
 
 * `/todo?task_priority=Low`
 * `/todo?task_priority=Medium`
 * `/todo?task_priority=High`
 
-Can filter `GET` request route to see all complete or uncomplete todos along with their priorty
+Can filter request route to see all complete or uncomplete todos along with their priorty
 
-* `/task_status=true&task_priority=Low`
+* `/todo?task_status=true&task_priority=Low`
 
 
  **Success Response:**
