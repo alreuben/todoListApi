@@ -119,14 +119,8 @@ There are no optional URL params
 
 ```json
 {
-    "message": "All todo tasks",
+    "message": "Todo task by ID",
     "data": [
-    {
-        "_id": "6435660a45610017e364ed93",
-        "task_name": "pat dog",
-        "task_status": false,
-        "task_priority": "High"
-    },
     {
         "_id": "6435660a45610017e364ed94",
         "task_name": "wash dog",
@@ -139,6 +133,5 @@ There are no optional URL params
  ```
 
 
-## Authors
-* alreuben 
+ 
 
