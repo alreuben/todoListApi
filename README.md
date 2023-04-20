@@ -14,11 +14,11 @@ A todo list Node API that uses Express to GET all todo tasks from a MongoDB data
 
 ### Executing program
 
-Clone the repo
-In the root of the project run both
- `npm i express` and
- `nmp i mongodb`
-In MongoDb import either tasks.csv or tasks.json from the 'mongodb' directory into your 'todo' database
+* Clone the repo
+* In the root of the project run both
+* `npm i express` and
+* `nmp i mongodb`
+* In MongoDb import either tasks.csv or tasks.json from the 'mongodb' directory into your 'todo' database
 
 
 To run tests, from the project root run:
