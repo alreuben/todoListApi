@@ -18,10 +18,11 @@ Clone the repo
 In the root of the project run both
  `npm i express` and
  `nmp i mongodb`
+In MongoDb import either tasks.csv or tasks.json from the 'mongodb' directory into your 'todo' database
 
 
 To run tests, from the project root run:
- `npm tests`
+ `npm test`
 
 ## API documentation
 
